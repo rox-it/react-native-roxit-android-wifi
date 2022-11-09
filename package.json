@@ -11,7 +11,10 @@
     "ios",
     "android"
   ],
-  "repository": "https://github.com/rox-it/react-native-roxit-android-wifi",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rox-it/react-native-roxit-android-wifi.git"
+  },
   "author": "RoxIT <info@rxit.ru> (https://github.com/rox-it)",
   "license": "MIT",
   "bugs": {
